@@ -7,4 +7,3 @@ print(type(valu))
 
 
 
-
