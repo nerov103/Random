@@ -6,3 +6,5 @@ print(random.choice(lst))
 
 
 
+
+
